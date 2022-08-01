@@ -19,7 +19,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -48,10 +48,10 @@ global.botname = '♥️ 자니드  💞  데윈디 ♥️ 𝗕𝗢𝗧' //ur bo
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.footer = '[ Ꭻ Ꭰɪʟʂʜαɴ Ꭻᴀყᴀʂᴇƙᴀɾᴀ-MD 𝗕𝗢𝗧 ]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ Aqua Bot Number  ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/+94729058479' //Change Your Button's URL
 
 //damtabase
 global.premium = ['+380944814219'] //ur premium numbers
