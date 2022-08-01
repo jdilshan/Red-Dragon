@@ -38,7 +38,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot body 
 global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
